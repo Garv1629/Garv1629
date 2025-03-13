@@ -1,2 +1,0 @@
-"Hi, I’m Garv Chauhan 👋, a beginner in web development 💻 and system programming 🖥️ with a strong interest in AI 🤖. Currently, I'm learning the fundamentals of C programming 📝 and diving into low-level system operations. On the web development side, I'm exploring front-end (HTML, CSS, JavaScript) 🌐 and back-end technologies 💾. Always eager to learn 📚, improve 🔧, and collaborate with others in the tech community 🤝!"
-
